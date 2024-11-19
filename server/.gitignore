@@ -1,0 +1,12 @@
+.env
+node_modules
+
+*.o
+*.a
+*.out
+
+*.exe
+
+*.so
+
+tmp/
